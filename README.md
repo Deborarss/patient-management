@@ -1,2 +1,2 @@
 # patient-management-
-A simple patient management using vanilla Javascript.
+A simple patient management app using vanilla Javascript.
